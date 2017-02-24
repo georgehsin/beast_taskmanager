@@ -14,6 +14,18 @@
 		A628FD2F1DDE9A6F00B76F39 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A628FD2D1DDE9A6F00B76F39 /* LaunchScreen.storyboard */; };
 		A628FD3A1DDE9A7000B76F39 /* Bucketlist_PracticeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A628FD391DDE9A7000B76F39 /* Bucketlist_PracticeTests.swift */; };
 		A628FD451DDE9A7000B76F39 /* Bucketlist_PracticeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A628FD441DDE9A7000B76F39 /* Bucketlist_PracticeUITests.swift */; };
+		A628FD531DDE9F5B00B76F39 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = A628FD521DDE9F5B00B76F39 /* ViewController2.swift */; };
+		A628FD551DDEA0F800B76F39 /* CancelButtonDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A628FD541DDEA0F800B76F39 /* CancelButtonDelegate.swift */; };
+		A6EE35D91DDEB9C6008EB9A5 /* DoneButtonDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6EE35D81DDEB9C6008EB9A5 /* DoneButtonDelegate.swift */; };
+		A6EE35DC1DDEBB4A008EB9A5 /* TasksModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A6EE35DA1DDEBB4A008EB9A5 /* TasksModel.xcdatamodeld */; };
+		A6EE35DF1DDEBB86008EB9A5 /* Tasks+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6EE35DD1DDEBB86008EB9A5 /* Tasks+CoreDataClass.swift */; };
+		A6EE35E01DDEBB86008EB9A5 /* Tasks+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6EE35DE1DDEBB86008EB9A5 /* Tasks+CoreDataProperties.swift */; };
+		A6EE35E21DDF6F85008EB9A5 /* CustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6EE35E11DDF6F85008EB9A5 /* CustomCell.swift */; };
+		A6EE35E41DDF76EB008EB9A5 /* BeastButtonDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6EE35E31DDF76EB008EB9A5 /* BeastButtonDelegate.swift */; };
+		A6EE35F21DDF89F6008EB9A5 /* Beast+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6EE35F01DDF89F6008EB9A5 /* Beast+CoreDataClass.swift */; };
+		A6EE35F31DDF89F6008EB9A5 /* Beast+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6EE35F11DDF89F6008EB9A5 /* Beast+CoreDataProperties.swift */; };
+		A6EE35F51DDF8AD4008EB9A5 /* BeastViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6EE35F41DDF8AD4008EB9A5 /* BeastViewController.swift */; };
+		A6EE35F71DDF9662008EB9A5 /* BeastedCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6EE35F61DDF9662008EB9A5 /* BeastedCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +59,18 @@
 		A628FD401DDE9A7000B76F39 /* Bucketlist PracticeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Bucketlist PracticeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A628FD441DDE9A7000B76F39 /* Bucketlist_PracticeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bucketlist_PracticeUITests.swift; sourceTree = "<group>"; };
 		A628FD461DDE9A7000B76F39 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A628FD521DDE9F5B00B76F39 /* ViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		A628FD541DDEA0F800B76F39 /* CancelButtonDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CancelButtonDelegate.swift; sourceTree = "<group>"; };
+		A6EE35D81DDEB9C6008EB9A5 /* DoneButtonDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DoneButtonDelegate.swift; sourceTree = "<group>"; };
+		A6EE35DB1DDEBB4A008EB9A5 /* TasksModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = TasksModel.xcdatamodel; sourceTree = "<group>"; };
+		A6EE35DD1DDEBB86008EB9A5 /* Tasks+CoreDataClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Tasks+CoreDataClass.swift"; sourceTree = "<group>"; };
+		A6EE35DE1DDEBB86008EB9A5 /* Tasks+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Tasks+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		A6EE35E11DDF6F85008EB9A5 /* CustomCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomCell.swift; sourceTree = "<group>"; };
+		A6EE35E31DDF76EB008EB9A5 /* BeastButtonDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BeastButtonDelegate.swift; sourceTree = "<group>"; };
+		A6EE35F01DDF89F6008EB9A5 /* Beast+CoreDataClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Beast+CoreDataClass.swift"; sourceTree = "<group>"; };
+		A6EE35F11DDF89F6008EB9A5 /* Beast+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Beast+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		A6EE35F41DDF8AD4008EB9A5 /* BeastViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BeastViewController.swift; sourceTree = "<group>"; };
+		A6EE35F61DDF9662008EB9A5 /* BeastedCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BeastedCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +101,10 @@
 		A628FD181DDE9A6E00B76F39 = {
 			isa = PBXGroup;
 			children = (
+				A6EE35F01DDF89F6008EB9A5 /* Beast+CoreDataClass.swift */,
+				A6EE35F11DDF89F6008EB9A5 /* Beast+CoreDataProperties.swift */,
+				A6EE35DD1DDEBB86008EB9A5 /* Tasks+CoreDataClass.swift */,
+				A6EE35DE1DDEBB86008EB9A5 /* Tasks+CoreDataProperties.swift */,
 				A628FD231DDE9A6E00B76F39 /* Bucketlist Practice */,
 				A628FD381DDE9A7000B76F39 /* Bucketlist PracticeTests */,
 				A628FD431DDE9A7000B76F39 /* Bucketlist PracticeUITests */,
@@ -98,8 +126,16 @@
 			isa = PBXGroup;
 			children = (
 				A628FD241DDE9A6F00B76F39 /* AppDelegate.swift */,
+				A6EE35DA1DDEBB4A008EB9A5 /* TasksModel.xcdatamodeld */,
 				A628FD261DDE9A6F00B76F39 /* ViewController.swift */,
+				A6EE35F41DDF8AD4008EB9A5 /* BeastViewController.swift */,
+				A628FD521DDE9F5B00B76F39 /* ViewController2.swift */,
+				A628FD541DDEA0F800B76F39 /* CancelButtonDelegate.swift */,
+				A6EE35D81DDEB9C6008EB9A5 /* DoneButtonDelegate.swift */,
 				A628FD281DDE9A6F00B76F39 /* Main.storyboard */,
+				A6EE35E31DDF76EB008EB9A5 /* BeastButtonDelegate.swift */,
+				A6EE35E11DDF6F85008EB9A5 /* CustomCell.swift */,
+				A6EE35F61DDF9662008EB9A5 /* BeastedCell.swift */,
 				A628FD2B1DDE9A6F00B76F39 /* Assets.xcassets */,
 				A628FD2D1DDE9A6F00B76F39 /* LaunchScreen.storyboard */,
 				A628FD301DDE9A6F00B76F39 /* Info.plist */,
@@ -193,6 +229,7 @@
 				TargetAttributes = {
 					A628FD201DDE9A6E00B76F39 = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = M66LNW846X;
 						ProvisioningStyle = Automatic;
 					};
 					A628FD341DDE9A7000B76F39 = {
@@ -259,8 +296,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A6EE35DC1DDEBB4A008EB9A5 /* TasksModel.xcdatamodeld in Sources */,
 				A628FD271DDE9A6F00B76F39 /* ViewController.swift in Sources */,
+				A6EE35E01DDEBB86008EB9A5 /* Tasks+CoreDataProperties.swift in Sources */,
+				A6EE35F51DDF8AD4008EB9A5 /* BeastViewController.swift in Sources */,
+				A6EE35DF1DDEBB86008EB9A5 /* Tasks+CoreDataClass.swift in Sources */,
+				A6EE35E41DDF76EB008EB9A5 /* BeastButtonDelegate.swift in Sources */,
+				A6EE35E21DDF6F85008EB9A5 /* CustomCell.swift in Sources */,
 				A628FD251DDE9A6F00B76F39 /* AppDelegate.swift in Sources */,
+				A6EE35F31DDF89F6008EB9A5 /* Beast+CoreDataProperties.swift in Sources */,
+				A628FD551DDEA0F800B76F39 /* CancelButtonDelegate.swift in Sources */,
+				A6EE35F71DDF9662008EB9A5 /* BeastedCell.swift in Sources */,
+				A6EE35F21DDF89F6008EB9A5 /* Beast+CoreDataClass.swift in Sources */,
+				A6EE35D91DDEB9C6008EB9A5 /* DoneButtonDelegate.swift in Sources */,
+				A628FD531DDE9F5B00B76F39 /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -412,11 +461,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = M66LNW846X;
 				INFOPLIST_FILE = "Bucketlist Practice/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.codingdojo.Bucketlist-Practice";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Debug;
 		};
@@ -424,11 +474,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = M66LNW846X;
 				INFOPLIST_FILE = "Bucketlist Practice/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.codingdojo.Bucketlist-Practice";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Release;
 		};
@@ -505,6 +556,7 @@
 				A628FD4B1DDE9A7000B76F39 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A628FD4C1DDE9A7000B76F39 /* Build configuration list for PBXNativeTarget "Bucketlist PracticeTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +565,7 @@
 				A628FD4E1DDE9A7000B76F39 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A628FD4F1DDE9A7000B76F39 /* Build configuration list for PBXNativeTarget "Bucketlist PracticeUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,8 +574,22 @@
 				A628FD511DDE9A7000B76F39 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		A6EE35DA1DDEBB4A008EB9A5 /* TasksModel.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				A6EE35DB1DDEBB4A008EB9A5 /* TasksModel.xcdatamodel */,
+			);
+			currentVersion = A6EE35DB1DDEBB4A008EB9A5 /* TasksModel.xcdatamodel */;
+			path = TasksModel.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = A628FD191DDE9A6E00B76F39 /* Project object */;
 }

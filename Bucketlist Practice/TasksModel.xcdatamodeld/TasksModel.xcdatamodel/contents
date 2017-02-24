@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11542" systemVersion="15F34" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Beast" representedClassName=".Beast" syncable="YES">
+        <attribute name="beasted" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="date" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Tasks" representedClassName=".Tasks" syncable="YES">
+        <attribute name="task" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Tasks" positionX="-63" positionY="-18" width="128" height="60"/>
+        <element name="Beast" positionX="-27" positionY="27" width="128" height="75"/>
+    </elements>
+</model>
